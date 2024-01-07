@@ -2,7 +2,7 @@ This Code is inspired from the LinkedIn post (https://www.linkedin.com/feed/upda
 
 I Dont know how they developed the code, but I seen a youtube video (https://www.youtube.com/watch?v=97XGafpranM) to calculate the Internal volume od component.
 
-Base base on that video reference, NX: Synchronous Modeling. I developed this code.
+Base on that video reference for NX: Synchronous Modeling. I developed this code.
 
 Note- This code developed to calculate only the Pipes in Assembly with only one inlet and one outlet in direction. It will fail to calculate with multiple outlets or inlets of Pipes.
 
